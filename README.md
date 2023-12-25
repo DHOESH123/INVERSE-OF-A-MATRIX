@@ -23,7 +23,7 @@ print(inverse)
 
 ```
 ## Output:
-![](./Screenshot%202023-12-25%20163022.png)
+![](./Screenshot%202023-12-25%20164524.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
